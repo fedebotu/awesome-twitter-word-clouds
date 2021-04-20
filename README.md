@@ -34,4 +34,5 @@ We scrape data from Twitter by using `Twint` which allows us to create datasets 
   <img alt="Starbucks" src="https://github.com/Juju-botu/awesome-twitter-word-clouds/blob/main/images/starbucks_wordcloud.png" width=600 />
 </p>
 
+## 📬 Feedback
 If you would like to contribute and bring more _awesomeness_ to this repo, feel free to raise an `Issue` or to contribute with a `Pull Request`!
